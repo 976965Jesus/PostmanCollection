@@ -17,7 +17,7 @@
 							"item": [
 								{
 									"name": "Insert Records",
-									"_postman_id": "179e58db-d884-452c-a8b0-7928fd490245",
+									"id": "179e58db-d884-452c-a8b0-7928fd490245",
 									"protocolProfileBehavior": {
 										"disableBodyPruning": true
 									},
@@ -68,7 +68,7 @@
 								},
 								{
 									"name": "Insert Records bulk",
-									"_postman_id": "ab28dc0e-204e-4d0b-881f-d71424cdaa18",
+									"id": "ab28dc0e-204e-4d0b-881f-d71424cdaa18",
 									"protocolProfileBehavior": {
 										"disableBodyPruning": true
 									},
@@ -119,7 +119,7 @@
 								},
 								{
 									"name": "Delete Records",
-									"_postman_id": "f3f5c0c5-0c91-432a-97d4-a0e45a39e080",
+									"id": "f3f5c0c5-0c91-432a-97d4-a0e45a39e080",
 									"protocolProfileBehavior": {
 										"disableBodyPruning": true
 									},
@@ -187,7 +187,7 @@
 								},
 								{
 									"name": "Sync Record Validation",
-									"_postman_id": "f5daa8e7-c2c0-4bb0-ba93-d7ea1badd23a",
+									"id": "f5daa8e7-c2c0-4bb0-ba93-d7ea1badd23a",
 									"protocolProfileBehavior": {
 										"disableBodyPruning": true
 									},
@@ -237,7 +237,7 @@
 									]
 								}
 							],
-							"_postman_id": "d5d9cee5-fb8e-44b1-918b-226d27498118",
+							"id": "d5d9cee5-fb8e-44b1-918b-226d27498118",
 							"event": [
 								{
 									"listen": "prerequest",
@@ -259,8 +259,7 @@
 										]
 									}
 								}
-							],
-							"_postman_isSubFolder": true
+							]
 						},
 						{
 							"name": "Bulk",
@@ -279,7 +278,7 @@
 											}
 										}
 									],
-									"_postman_id": "82cb4788-f531-4bf0-b5e2-b95eb2b03232",
+									"id": "82cb4788-f531-4bf0-b5e2-b95eb2b03232",
 									"protocolProfileBehavior": {
 										"disableBodyPruning": true
 									},
@@ -342,7 +341,7 @@
 											}
 										}
 									],
-									"_postman_id": "24b5cebb-027e-4a86-ab31-cf7587791cf3",
+									"id": "24b5cebb-027e-4a86-ab31-cf7587791cf3",
 									"protocolProfileBehavior": {
 										"disabledSystemHeaders": {},
 										"disableBodyPruning": true
@@ -364,9 +363,6 @@
 											"mode": "file",
 											"file": {
 												"src": "/Users/jesusalvarez/Library/CloudStorage/OneDrive-FreewayPremiumOutsourcingS.A/Documentos/CMI CDP/PruebaCarga.csv"
-											},
-											"options": {
-												"file": {}
 											}
 										},
 										"url": "https://{{dne_cdpOffcoreUrl}}/api/v1/ingest/jobs/f49b6abd-db8f-4d49-a03e-d2e9ac1938f1/batches"
@@ -424,7 +420,7 @@
 											}
 										}
 									],
-									"_postman_id": "2b055d92-87ea-4067-809d-eec9ae2a677d",
+									"id": "2b055d92-87ea-4067-809d-eec9ae2a677d",
 									"protocolProfileBehavior": {
 										"disableBodyPruning": true
 									},
@@ -487,7 +483,7 @@
 											}
 										}
 									],
-									"_postman_id": "41fb9ecb-7898-47af-88a8-5aac5e0b2155",
+									"id": "41fb9ecb-7898-47af-88a8-5aac5e0b2155",
 									"protocolProfileBehavior": {
 										"disableBodyPruning": true
 									},
@@ -550,7 +546,7 @@
 											}
 										}
 									],
-									"_postman_id": "065fafc9-c0c0-4fd9-a11b-cb244d49ac2e",
+									"id": "065fafc9-c0c0-4fd9-a11b-cb244d49ac2e",
 									"protocolProfileBehavior": {
 										"disableBodyPruning": true
 									},
@@ -590,7 +586,7 @@
 											}
 										}
 									],
-									"_postman_id": "05d7c211-ed2c-4c0d-aea6-04b688341699",
+									"id": "05d7c211-ed2c-4c0d-aea6-04b688341699",
 									"protocolProfileBehavior": {
 										"disableBodyPruning": true
 									},
@@ -630,7 +626,7 @@
 											}
 										}
 									],
-									"_postman_id": "8666614b-2897-4968-986c-98ef35d4ca85",
+									"id": "8666614b-2897-4968-986c-98ef35d4ca85",
 									"protocolProfileBehavior": {
 										"disableBodyPruning": true
 									},
@@ -717,11 +713,10 @@
 									]
 								}
 							],
-							"_postman_id": "f1de321a-7a5e-45b6-b14b-bd48c0864700",
-							"_postman_isSubFolder": true
+							"id": "f1de321a-7a5e-45b6-b14b-bd48c0864700"
 						}
 					],
-					"_postman_id": "daa337d5-58c2-4b2a-a577-2b321407b7e3",
+					"id": "daa337d5-58c2-4b2a-a577-2b321407b7e3",
 					"event": [
 						{
 							"listen": "prerequest",
@@ -743,11 +738,10 @@
 								"id": "72c7343a-32d4-464a-93cd-68e073184632"
 							}
 						}
-					],
-					"_postman_isSubFolder": true
+					]
 				}
 			],
-			"_postman_id": "54848cd9-b411-48d7-890c-f3bfde7f6577",
+			"id": "54848cd9-b411-48d7-890c-f3bfde7f6577",
 			"description": "The Salesforce CDP allows you to perform some of the Salesforce CDP application tasks programmatically via a [Direct API](https://developer.salesforce.com/docs/atlas.en-us.c360a_api.meta/c360a_api/c360a_api_quick_start.htm) to the underlying data store. \n\nThis is the preferred approach to API connections however if you need access to the APIs in things such as flow, we support access via the Salesforce Connect APIs.",
 			"auth": {
 				"type": "bearer",
@@ -926,7 +920,7 @@
 									}
 								}
 							],
-							"_postman_id": "6856d783-fea2-456f-84af-a23b0cfc88b9",
+							"id": "6856d783-fea2-456f-84af-a23b0cfc88b9",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -961,24 +955,20 @@
 											"value": "{{clientSecret}}",
 											"type": "text"
 										}
-									],
-									"options": {
-										"urlencoded": {}
-									}
+									]
 								},
 								"url": "https://{{loginUrl}}/services/oauth2/token"
 							},
 							"response": []
 						}
 					],
-					"_postman_id": "429bbba7-0d51-45f2-9e16-13cd0385958b",
+					"id": "429bbba7-0d51-45f2-9e16-13cd0385958b",
 					"auth": {
 						"type": "noauth"
-					},
-					"_postman_isSubFolder": true
+					}
 				}
 			],
-			"_postman_id": "27dac9f4-e75a-49cf-a294-fbe248bffa54",
+			"id": "27dac9f4-e75a-49cf-a294-fbe248bffa54",
 			"description": "The [CONNECT APIs](https://developer.salesforce.com/docs/atlas.en-us.chatterapi.meta/chatterapi/connect_resources_customer_360_audiences_resources.htm) allow users to make the same API calls directly from Salesforce’s connect interface. This allows for these APIs to be called in flows as well. \n\nCalling APIs directly using the non connect method typically offers the best performance. However, there are use cases where that doesn't make sense. Therefore, please be advised that calling CONNECT APIs directly does not conform to the same SLAs that calling the API directly offers.",
 			"auth": {
 				"type": "bearer",
@@ -1049,88 +1039,74 @@
 	],
 	"variable": [
 		{
-			"id": "b4555bc8-12c0-48a9-97cc-6a470fe63a22",
+			"id": "8d51c0c0-0b80-46b4-8f8c-d5beec806736",
 			"key": "loginUrl",
-			"value": "login.salesforce.com",
-			"type": "string"
+			"value": "login.salesforce.com"
 		},
 		{
-			"id": "a2d83c1e-bc8b-4e7e-8025-6cfa0e85bf11",
+			"id": "3d6a96b8-035c-4ea5-95b7-2a9cb1e66714",
 			"key": "version",
-			"value": "52.0",
-			"type": "string"
+			"value": "52.0"
 		},
 		{
-			"id": "fe828bcd-1c7c-4d3f-b523-a66d55b5382c",
+			"id": "808fd88b-c7b0-4922-89e3-a32f486cdb6e",
 			"key": "clientId",
-			"value": "",
-			"type": "string"
+			"value": ""
 		},
 		{
-			"id": "534281ac-9bd2-454a-98a8-872a25b9acae",
+			"id": "4b80dbaf-9e52-4109-91e4-e0a6edb2005c",
 			"key": "clientSecret",
-			"value": "",
-			"type": "string"
+			"value": ""
 		},
 		{
-			"id": "4cd922c5-4d05-4982-b354-a1dc453bb507",
+			"id": "3c598734-45af-49a4-a87e-ca2259873882",
 			"key": "privateKey",
-			"value": "",
-			"type": "string"
+			"value": ""
 		},
 		{
-			"id": "7c447936-97cb-4d48-8243-399e4f28f843",
+			"id": "c33a4d21-b00c-4ff5-b25d-57d6d11ec8ea",
 			"key": "userName",
-			"value": "",
-			"type": "string"
+			"value": ""
 		},
 		{
-			"id": "b82418dc-acf9-4be9-85b8-004c26b67760",
+			"id": "cab2cb51-06b3-418a-bd91-4f8723e66035",
 			"key": "securityToken",
-			"value": "",
-			"type": "string"
+			"value": ""
 		},
 		{
-			"id": "3ebe2c00-6361-49c6-bde9-b4e543447c88",
+			"id": "68787721-f1e4-46b6-aa17-f601e297bbec",
 			"key": "password",
-			"value": "",
-			"type": "string"
+			"value": ""
 		},
 		{
-			"id": "8de031d0-f73e-4e77-98be-d35c8fd5ac6c",
+			"id": "85136108-de25-4920-9902-a0cdda692f30",
 			"key": "dne_cdpOffcoreUrl",
-			"value": "",
-			"type": "string"
+			"value": ""
 		},
 		{
-			"id": "70c68437-1c3d-4c41-a47f-d455d018fced",
+			"id": "330a2e74-1d92-4f55-9e08-164731e21502",
 			"key": "dne_cdpOffcoreToken",
-			"value": "",
-			"type": "string"
+			"value": ""
 		},
 		{
-			"id": "c7b7fdf1-b9ca-44c9-9ecc-368bf01829cf",
+			"id": "622d71cb-5705-4c5f-9c69-3a3524af4938",
 			"key": "dne_cdpInstanceUrl",
-			"value": "",
-			"type": "string"
+			"value": ""
 		},
 		{
-			"id": "3f92c9ca-86a3-4e28-bb77-31e6b84df7cd",
+			"id": "105e7842-3c0c-45b1-8763-dc38d27c7f64",
 			"key": "dne_cdpAuthToken",
-			"value": "",
-			"type": "string"
+			"value": ""
 		},
 		{
-			"id": "4ca78b8b-8bab-42a2-82a6-ad7f5c1ac315",
+			"id": "bc4ad084-047f-42fc-9f9f-c1a7f979b9ff",
 			"key": "dne_cdpTokenRefreshTime",
-			"value": "",
-			"type": "string"
+			"value": ""
 		},
 		{
-			"id": "3c371838-5747-44f5-890f-638a29a2a9d4",
+			"id": "3982dd4f-9655-44e5-a743-3b5923243192",
 			"key": "dne_cdpAssertion",
-			"value": "",
-			"type": "string"
+			"value": ""
 		}
 	]
 }
