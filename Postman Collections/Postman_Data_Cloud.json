@@ -1039,72 +1039,72 @@
 	],
 	"variable": [
 		{
-			"id": "3ad5d666-1a45-46ec-a5d9-a1a81b88ef9d",
+			"id": "905c0e80-ffe6-4edc-ba41-5930730f2c37",
 			"key": "loginUrl",
 			"value": "login.salesforce.com"
 		},
 		{
-			"id": "7da49804-bb79-4560-8991-196c9ca1a94c",
+			"id": "878f68ac-9343-4b7b-bcaf-697a9ed7ea7b",
 			"key": "version",
 			"value": "52.0"
 		},
 		{
-			"id": "cbbe02e8-baf6-4c89-b3e2-bb0d3f971d69",
+			"id": "d1d34ffb-a889-4c87-ab8c-86262764efa4",
 			"key": "clientId",
 			"value": ""
 		},
 		{
-			"id": "fb5e81a7-3088-48b0-beda-f85393373aa8",
+			"id": "987048d0-d984-468d-80dc-2a0dcbd4c0f5",
 			"key": "clientSecret",
 			"value": ""
 		},
 		{
-			"id": "cf36f2c7-3be7-4b69-9a1d-b715cf8333b1",
+			"id": "06eb47e3-a606-440b-8158-443d9d552451",
 			"key": "privateKey",
 			"value": ""
 		},
 		{
-			"id": "8c719dc3-76c7-4e1b-b7cb-40ead0afdbb5",
+			"id": "8e9aa816-7dd5-4eab-907e-1c2a167f1945",
 			"key": "userName",
 			"value": ""
 		},
 		{
-			"id": "b8b0fe81-f27e-4c13-8705-b751831a0e45",
+			"id": "7cb027ac-366d-4692-960b-db713554bb40",
 			"key": "securityToken",
 			"value": ""
 		},
 		{
-			"id": "0791f9fd-05e3-4725-906d-db6b9246355c",
+			"id": "18fec659-242f-4d46-9694-e2f49370acf7",
 			"key": "password",
 			"value": ""
 		},
 		{
-			"id": "dd0bf8f5-fe9a-4d68-ad3c-70129325e472",
+			"id": "37d5d6bd-d71f-402e-92a1-07066da9c1bb",
 			"key": "dne_cdpOffcoreUrl",
 			"value": ""
 		},
 		{
-			"id": "d24a7cfc-3fdf-4d92-be94-c2804104b782",
+			"id": "521c2a0f-b077-4b3e-9002-0be835867246",
 			"key": "dne_cdpOffcoreToken",
 			"value": ""
 		},
 		{
-			"id": "8d669bfe-7212-4aaf-8e82-9aa78b8034c5",
+			"id": "95b323aa-5826-4d4c-a09d-75cc27750a56",
 			"key": "dne_cdpInstanceUrl",
 			"value": ""
 		},
 		{
-			"id": "2ced713f-b1f4-41b5-b645-baaf4beab25e",
+			"id": "f312f6d0-6bbd-4483-893e-4e9df3d5b355",
 			"key": "dne_cdpAuthToken",
 			"value": ""
 		},
 		{
-			"id": "c2550ad9-c108-49dc-8697-0c37a729890a",
+			"id": "a4df6b99-056d-43dc-8816-9b2d280d4f12",
 			"key": "dne_cdpTokenRefreshTime",
 			"value": ""
 		},
 		{
-			"id": "e257ab6f-7e35-4a2d-a129-8b59a3273bfe",
+			"id": "b0cafccd-41be-4cae-95c2-42f4feb5fa81",
 			"key": "dne_cdpAssertion",
 			"value": ""
 		}
