@@ -311,10 +311,10 @@
 										"body": {
 											"mode": "file",
 											"file": {
-												"src": "/Users/jesusalvarez/Library/CloudStorage/OneDrive-FreewayPremiumOutsourcingS.A/Documentos/CMI CDP/Cargas CMI/Tillster/tillster_cliente_unico_phone_2023_08_07_test25.csv"
+												"src": "/Users/jesusalvarez/Library/CloudStorage/OneDrive-FreewayPremiumOutsourcingS.A/Documentos/CMI CDP/Cargas CMI/Tillster/Phone/10-08-2023/tillster_cliente_unico_telefono_sample.csv"
 											}
 										},
-										"url": "https://{{dne_cdpOffcoreUrl}}/api/v1/ingest/jobs/0552aa58-e17e-45eb-80c4-320e964556cb/batches"
+										"url": "https://{{dne_cdpOffcoreUrl}}/api/v1/ingest/jobs/38a6711d-c930-4bcb-a6f6-2ffe0c0238f7/batches"
 									},
 									"response": [
 										{
@@ -988,72 +988,72 @@
 	],
 	"variable": [
 		{
-			"id": "30b61c8b-8a76-4d7d-99fe-113e9613f1ba",
+			"id": "814f02d2-5ab2-44ff-b1a3-60c5c672a0d5",
 			"key": "loginUrl",
 			"value": "login.salesforce.com"
 		},
 		{
-			"id": "f500b078-169b-4ed5-b45a-7cc3120a03aa",
+			"id": "8a04b65d-0619-46d7-88f9-590040f7b6a8",
 			"key": "version",
 			"value": "52.0"
 		},
 		{
-			"id": "fd312a6f-0a9d-42a9-b00b-ade98aab4666",
+			"id": "58017c38-d7f4-447b-a6ed-2bf5edc4db4b",
 			"key": "clientId",
 			"value": ""
 		},
 		{
-			"id": "843ce4bc-9cdd-4bfe-918c-2e22ca68dafd",
+			"id": "9065be5e-2958-4f8d-9fbb-00fd40a9ebf2",
 			"key": "clientSecret",
 			"value": ""
 		},
 		{
-			"id": "199f61ed-2339-4341-951a-619d25308390",
+			"id": "c917f6e3-ed7d-4ea0-a485-1489349b4d1c",
 			"key": "privateKey",
 			"value": ""
 		},
 		{
-			"id": "ff07f3ed-9ad9-4da6-a3cb-a28b211d81c3",
+			"id": "35c74acf-dd49-414a-a020-f30751ea0ff2",
 			"key": "userName",
 			"value": ""
 		},
 		{
-			"id": "02dc068d-cd77-4286-9f00-97f5b4b5d96d",
+			"id": "d0bb6369-5eb9-4dad-847f-9a3a2edff4b7",
 			"key": "securityToken",
 			"value": ""
 		},
 		{
-			"id": "91ae699b-c4f4-4141-817e-1abed416bb6e",
+			"id": "d7204fbf-f67c-4c26-a2c3-a5bcdc5029ff",
 			"key": "password",
 			"value": ""
 		},
 		{
-			"id": "bff8909d-f942-41d5-a0b3-6c4a77dfe4ee",
+			"id": "44dfdbce-47ee-4b5e-aa9e-b3c809177c8c",
 			"key": "dne_cdpOffcoreUrl",
 			"value": ""
 		},
 		{
-			"id": "734caea1-faff-42f5-a0a4-442263d11395",
+			"id": "cc649601-38b7-4107-98cc-c480da10cb0d",
 			"key": "dne_cdpOffcoreToken",
 			"value": ""
 		},
 		{
-			"id": "5bc21443-162e-4c8f-a4ac-e155b37fad98",
+			"id": "d0d32f1a-a60b-4a3c-ab6c-50c1f5d44c8b",
 			"key": "dne_cdpInstanceUrl",
 			"value": ""
 		},
 		{
-			"id": "82c8abb8-c085-4f4a-a571-1e8f34e70d73",
+			"id": "d16f21b3-04a0-47b2-af17-ca6d029a8556",
 			"key": "dne_cdpAuthToken",
 			"value": ""
 		},
 		{
-			"id": "389e57fb-579f-4204-9b85-b20dcf9c1ef4",
+			"id": "3fbf4ede-b57c-4e98-9152-4060c849485b",
 			"key": "dne_cdpTokenRefreshTime",
 			"value": ""
 		},
 		{
-			"id": "aaa81ae0-5111-4920-8eaf-ffe16d4d19fc",
+			"id": "33038381-25f1-4e46-b9ce-7ada1fb11485",
 			"key": "dne_cdpAssertion",
 			"value": ""
 		}
