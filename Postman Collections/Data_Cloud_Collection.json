@@ -988,72 +988,72 @@
 	],
 	"variable": [
 		{
-			"id": "fb50a708-6c5a-4cb5-b923-2ee5e8153efb",
+			"id": "30b61c8b-8a76-4d7d-99fe-113e9613f1ba",
 			"key": "loginUrl",
 			"value": "login.salesforce.com"
 		},
 		{
-			"id": "68cd44d5-3772-42cc-9556-b34737957627",
+			"id": "f500b078-169b-4ed5-b45a-7cc3120a03aa",
 			"key": "version",
 			"value": "52.0"
 		},
 		{
-			"id": "21102c32-5806-462b-a67e-3a11b6929e41",
+			"id": "fd312a6f-0a9d-42a9-b00b-ade98aab4666",
 			"key": "clientId",
 			"value": ""
 		},
 		{
-			"id": "ebcffb66-0594-4a41-98ab-80e06e216255",
+			"id": "843ce4bc-9cdd-4bfe-918c-2e22ca68dafd",
 			"key": "clientSecret",
 			"value": ""
 		},
 		{
-			"id": "3f0ab28b-92cf-48ff-afc3-995467e3a9d8",
+			"id": "199f61ed-2339-4341-951a-619d25308390",
 			"key": "privateKey",
 			"value": ""
 		},
 		{
-			"id": "9512a27a-1ad2-46fe-b40c-df6668c60a2b",
+			"id": "ff07f3ed-9ad9-4da6-a3cb-a28b211d81c3",
 			"key": "userName",
 			"value": ""
 		},
 		{
-			"id": "40e1091c-dcac-413b-9e07-40486c8a85dc",
+			"id": "02dc068d-cd77-4286-9f00-97f5b4b5d96d",
 			"key": "securityToken",
 			"value": ""
 		},
 		{
-			"id": "fbaa011f-dec3-454c-bde1-3fe586d484cd",
+			"id": "91ae699b-c4f4-4141-817e-1abed416bb6e",
 			"key": "password",
 			"value": ""
 		},
 		{
-			"id": "b0184eec-dbbf-46ff-b468-acf4f4b103e2",
+			"id": "bff8909d-f942-41d5-a0b3-6c4a77dfe4ee",
 			"key": "dne_cdpOffcoreUrl",
 			"value": ""
 		},
 		{
-			"id": "0fc4725d-7e92-4d41-8799-5fc749e3c474",
+			"id": "734caea1-faff-42f5-a0a4-442263d11395",
 			"key": "dne_cdpOffcoreToken",
 			"value": ""
 		},
 		{
-			"id": "3acecc6f-a44b-491c-98e8-bf5c8793cf30",
+			"id": "5bc21443-162e-4c8f-a4ac-e155b37fad98",
 			"key": "dne_cdpInstanceUrl",
 			"value": ""
 		},
 		{
-			"id": "3e9c5ae5-808c-478d-9378-e7ad5bc133e3",
+			"id": "82c8abb8-c085-4f4a-a571-1e8f34e70d73",
 			"key": "dne_cdpAuthToken",
 			"value": ""
 		},
 		{
-			"id": "9643ba74-5e63-4075-ad32-4ccfd3cf30ec",
+			"id": "389e57fb-579f-4204-9b85-b20dcf9c1ef4",
 			"key": "dne_cdpTokenRefreshTime",
 			"value": ""
 		},
 		{
-			"id": "0d958dc9-e5bd-4f25-aa64-5e33252b2525",
+			"id": "aaa81ae0-5111-4920-8eaf-ffe16d4d19fc",
 			"key": "dne_cdpAssertion",
 			"value": ""
 		}
