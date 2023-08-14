@@ -311,10 +311,10 @@
 										"body": {
 											"mode": "file",
 											"file": {
-												"src": "/Users/jesusalvarez/Library/CloudStorage/OneDrive-FreewayPremiumOutsourcingS.A/Documentos/CMI CDP/Cargas CMI/Tillster/Customer/10-08-2023/tillster_cliente_unico_cientes_sample.csv"
+												"src": "/Users/jesusalvarez/Library/CloudStorage/OneDrive-FreewayPremiumOutsourcingS.A/Documentos/CMI CDP/Cargas CMI/Tillster/Phone/Carga completa/tillster_cliente_unico_telefono_gt.csv"
 											}
 										},
-										"url": "https://{{dne_cdpOffcoreUrl}}/api/v1/ingest/jobs/87b5b830-4291-43a0-979c-02678fac6c0d/batches"
+										"url": "https://{{dne_cdpOffcoreUrl}}/api/v1/ingest/jobs/617b472f-93bd-4011-9a59-4bb6b22d01e6/batches"
 									},
 									"response": [
 										{
@@ -988,72 +988,72 @@
 	],
 	"variable": [
 		{
-			"id": "40bd8cb6-8e17-43be-8b44-75e9e5bec834",
+			"id": "aff7f05a-d7e6-4485-9243-d4ba0fec885f",
 			"key": "loginUrl",
 			"value": "login.salesforce.com"
 		},
 		{
-			"id": "74b149da-c30d-4c23-9d38-8858e4b6c4e6",
+			"id": "a61315f3-f921-448d-bf63-8c49308edaf4",
 			"key": "version",
 			"value": "52.0"
 		},
 		{
-			"id": "738ae373-0124-48d1-948c-db795cd1ad54",
+			"id": "2381acde-cda3-4d7d-b763-92af59fcaecb",
 			"key": "clientId",
 			"value": ""
 		},
 		{
-			"id": "8c1d86cc-667d-4502-bc54-47d0fe731552",
+			"id": "23d72325-5ab2-40b2-a964-bdb4be07db00",
 			"key": "clientSecret",
 			"value": ""
 		},
 		{
-			"id": "dd072b4d-59d7-4c89-b4c8-06a8a0268eb4",
+			"id": "5b9fc323-1c32-4c77-9a8b-083ff53fbfd7",
 			"key": "privateKey",
 			"value": ""
 		},
 		{
-			"id": "8fc0814e-b771-4037-b529-c29cbfbddf24",
+			"id": "51fe4247-d359-412a-96f3-8e8be0db1f61",
 			"key": "userName",
 			"value": ""
 		},
 		{
-			"id": "352af18e-1d59-4e23-8c12-cd2861a113c2",
+			"id": "083dce2d-8c18-4ac7-b81a-d49a5066abcd",
 			"key": "securityToken",
 			"value": ""
 		},
 		{
-			"id": "89648d4a-705a-4f8c-9eb4-83225b2217a4",
+			"id": "8cbab9c0-cf7d-4a65-8764-eab78a9a9667",
 			"key": "password",
 			"value": ""
 		},
 		{
-			"id": "45fbbb7c-fa8f-4b88-8677-ec27867de215",
+			"id": "24df87c2-e8f1-4dab-8acc-9f0456796a61",
 			"key": "dne_cdpOffcoreUrl",
 			"value": ""
 		},
 		{
-			"id": "9ef4226d-2458-45bd-acbc-3dd8b3554e87",
+			"id": "e1536c4b-033a-484a-b0af-077a9f11ec0b",
 			"key": "dne_cdpOffcoreToken",
 			"value": ""
 		},
 		{
-			"id": "6d99b426-de5b-4a83-af7e-7b0172cf9c98",
+			"id": "b63236ba-b5aa-4007-b6e6-1071d1bfb67d",
 			"key": "dne_cdpInstanceUrl",
 			"value": ""
 		},
 		{
-			"id": "58f663ab-2924-4b53-a155-49c8fc1278c6",
+			"id": "7b532d0b-b655-47d7-a329-21c8f23bbd50",
 			"key": "dne_cdpAuthToken",
 			"value": ""
 		},
 		{
-			"id": "a2370e7d-591b-42ef-b608-57baadd3c44a",
+			"id": "2cb7b7be-2086-447b-8f64-8a4d617cb1ee",
 			"key": "dne_cdpTokenRefreshTime",
 			"value": ""
 		},
 		{
-			"id": "a1cae5ce-0752-4aee-9bc8-ce56eeadefdd",
+			"id": "7d29814e-912a-4f93-8f8f-87227e0b16f9",
 			"key": "dne_cdpAssertion",
 			"value": ""
 		}
