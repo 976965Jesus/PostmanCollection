@@ -82,7 +82,7 @@
 										],
 										"body": {
 											"mode": "raw",
-											"raw": "{\n    \"data\": [\n        {\n            \"canal\": \"Text\",\n            \"fecha\": \"1997-03-04\",\n            \"fecha_modificacion\": \"2023-06-15\",\n            \"user_id\":\"00112233\",\n            \"restaurante\":\"central\",\n            \"transaction_id\":\"001122334455\",\n            \"pos_order_id\":\"00111110\"\n        }\n    ]\n}",
+											"raw": "{\n    \"data\": [\n        {\n            \"canal\": \"Text\",\n            \"fecha\": \"2023-08-14T00:00:00.000Z\",\n            \"fecha_modificacion\": \"2023-08-15T00:00:00.000Z\",\n            \"user_id\":\"00112233\",\n            \"restaurante\":\"central\",\n            \"transaction_id\":\"001122334455\",\n            \"pos_order_id\":\"00111110\"\n        }\n    ]\n}",
 											"options": {
 												"raw": {
 													"language": "json"
@@ -988,72 +988,72 @@
 	],
 	"variable": [
 		{
-			"id": "2649ad17-a6e0-44f5-b58d-fb980cb2d772",
+			"id": "287c486a-f04c-4ff7-ac65-fb47a14745ab",
 			"key": "loginUrl",
 			"value": "login.salesforce.com"
 		},
 		{
-			"id": "e119d86d-a654-4783-ad5d-bb8f185b66ec",
+			"id": "e6352e62-36aa-49f5-9adc-3b430507a1d8",
 			"key": "version",
 			"value": "52.0"
 		},
 		{
-			"id": "e099a832-bc50-4c22-afd1-7e0c96e902f6",
+			"id": "33df4ee4-6767-46b1-a8e8-f1125050d15a",
 			"key": "clientId",
 			"value": ""
 		},
 		{
-			"id": "ed1476fa-d2a9-4ee6-8b53-b1b7f1a33d5c",
+			"id": "a44a7021-4bf1-486a-a7c2-d8b47b2a6ca9",
 			"key": "clientSecret",
 			"value": ""
 		},
 		{
-			"id": "847a569f-6ac7-4f13-87be-21bd9b3675ab",
+			"id": "e84e53af-0519-4c8b-91cf-c0eac233b7bf",
 			"key": "privateKey",
 			"value": ""
 		},
 		{
-			"id": "0977155d-9f01-4dc2-88b3-2bd3ad99fabf",
+			"id": "fc6f5070-3fe7-432d-bf3f-a6e67d669ac9",
 			"key": "userName",
 			"value": ""
 		},
 		{
-			"id": "2815ae62-fda0-41f6-8b9a-257c4ee8952c",
+			"id": "d2ee46b1-91ec-4c95-b53c-b465715e6ddd",
 			"key": "securityToken",
 			"value": ""
 		},
 		{
-			"id": "1d4ff279-de5c-4802-aeea-df152ae8a91d",
+			"id": "4c9dd5a9-abe2-4534-bab0-c229f67062b8",
 			"key": "password",
 			"value": ""
 		},
 		{
-			"id": "1fddd308-c4ea-4eb5-893f-1ed450928a5e",
+			"id": "10cc17ad-9374-4032-9226-faa48ef5556b",
 			"key": "dne_cdpOffcoreUrl",
 			"value": ""
 		},
 		{
-			"id": "24ebcde0-8fb1-48bf-ba65-fae60786507b",
+			"id": "1f30627f-8542-4a7e-b437-72888292ca92",
 			"key": "dne_cdpOffcoreToken",
 			"value": ""
 		},
 		{
-			"id": "678bbb4c-c78f-41d9-99bb-823b04ecd55e",
+			"id": "fde9d72e-a418-4e6c-b2d4-55dd4dcbdc8f",
 			"key": "dne_cdpInstanceUrl",
 			"value": ""
 		},
 		{
-			"id": "6ec919fe-c640-415b-9c25-4df5ce41547c",
+			"id": "7aa2934d-53f9-44ff-b021-1ec12c76eebd",
 			"key": "dne_cdpAuthToken",
 			"value": ""
 		},
 		{
-			"id": "bc507012-7915-4d7a-a604-291798d6edc8",
+			"id": "0ae76fb8-7537-4e4e-ae5d-dc64bbe53cac",
 			"key": "dne_cdpTokenRefreshTime",
 			"value": ""
 		},
 		{
-			"id": "b7c4cbd9-1517-4301-82ff-76fffc9d2d12",
+			"id": "6197a584-693c-424f-98ad-d7b1bb37411c",
 			"key": "dne_cdpAssertion",
 			"value": ""
 		}
