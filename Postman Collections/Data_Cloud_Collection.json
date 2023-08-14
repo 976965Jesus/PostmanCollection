@@ -660,6 +660,19 @@
 											"body": "{\n    \"data\": [\n        {\n            \"object\": \"runner_profiles\",\n            \"id\": \"b1b79aa2-b846-403a-b41f-d89932f0b2ae\",\n            \"operation\": \"upsert\",\n            \"sourceName\": \"Event_API\",\n            \"createdById\": \"0053y00000FUGfBAAX\",\n            \"createdDate\": \"2021-10-28T17:14:58.692891Z\",\n            \"systemModstamp\": \"2021-10-28T17:14:58.692891Z\",\n            \"state\": \"Open\",\n            \"contentType\": \"CSV\",\n            \"apiVersion\": \"v1\",\n            \"contentUrl\": \"/api/v1/ingest/jobs/b1b79aa2-b846-403a-b41f-d89932f0b2ae/batches\",\n            \"retries\": 0,\n            \"totalProcessingTime\": 0\n        }\n    ]\n}"
 										}
 									]
+								},
+								{
+									"name": "https://{{dne_cdpOffcoreUrl}}/api/v1/ingest/jobs/674e790c-b51d-4a51-badc-e0e95793003b/batches",
+									"id": "0dbac602-2d0b-425e-9355-8adff1b29035",
+									"protocolProfileBehavior": {
+										"disableBodyPruning": true
+									},
+									"request": {
+										"method": "GET",
+										"header": [],
+										"url": "https://{{dne_cdpOffcoreUrl}}/api/v1/ingest/jobs/674e790c-b51d-4a51-badc-e0e95793003b/batches"
+									},
+									"response": []
 								}
 							],
 							"id": "75e9c023-3da5-4706-af19-715a6e3841c2"
@@ -988,72 +1001,72 @@
 	],
 	"variable": [
 		{
-			"id": "7746695e-7eb5-467b-bd8c-b87f1ed4036d",
+			"id": "0db53287-a35d-45cc-93cf-281047a79fb3",
 			"key": "loginUrl",
 			"value": "login.salesforce.com"
 		},
 		{
-			"id": "1d5e1dbb-18cb-4962-ae1e-1882804fea4a",
+			"id": "4d60a2a9-5256-4526-9d6a-216a8c27ca64",
 			"key": "version",
 			"value": "52.0"
 		},
 		{
-			"id": "bfd4d180-9216-4b06-a600-e10ffebb4b24",
+			"id": "8523f83d-fa00-4447-ae4a-a24d9c975836",
 			"key": "clientId",
 			"value": ""
 		},
 		{
-			"id": "49508b1f-affb-4519-906a-8d6215235d93",
+			"id": "2c3daf3b-6769-487b-9b29-594c61cf3f00",
 			"key": "clientSecret",
 			"value": ""
 		},
 		{
-			"id": "6ad76f0f-a5cb-4b59-8928-f6747977489d",
+			"id": "d59bd287-a63f-4b04-a8c2-cc26bc667463",
 			"key": "privateKey",
 			"value": ""
 		},
 		{
-			"id": "4ba2107f-e547-48a8-b0a1-0405481531b2",
+			"id": "04ee1183-1e55-4498-8ee1-990612c08934",
 			"key": "userName",
 			"value": ""
 		},
 		{
-			"id": "f1a7f891-c7fa-4fc3-91aa-70d2faed9333",
+			"id": "23119125-2359-4fbb-b2ab-c3f9a4d032f5",
 			"key": "securityToken",
 			"value": ""
 		},
 		{
-			"id": "109af6a3-c588-4f66-a22f-023cc8ee0ce5",
+			"id": "668a3842-7f25-4126-afb9-21d8bc04ab0c",
 			"key": "password",
 			"value": ""
 		},
 		{
-			"id": "e59a92e6-2260-410b-99a1-ad3fcda75c6b",
+			"id": "126df9c0-83d4-44e1-891e-85a02274420d",
 			"key": "dne_cdpOffcoreUrl",
 			"value": ""
 		},
 		{
-			"id": "2f7ac77a-29e6-487b-b91c-f7563c097b6a",
+			"id": "de4bc371-22ad-42cd-9a8a-76b1efc3f34d",
 			"key": "dne_cdpOffcoreToken",
 			"value": ""
 		},
 		{
-			"id": "17885413-7ea7-4121-b6e1-c2e0d1ec0cd8",
+			"id": "81461fff-0d22-4af4-9700-6149d0df8cbb",
 			"key": "dne_cdpInstanceUrl",
 			"value": ""
 		},
 		{
-			"id": "9b8b2008-36e6-44e3-b20e-fb7ce468a767",
+			"id": "0ed8d65d-bba9-42c7-b2f5-49684a38e22c",
 			"key": "dne_cdpAuthToken",
 			"value": ""
 		},
 		{
-			"id": "c2677358-582c-4aed-b2c6-dcfe766353e9",
+			"id": "f7654329-a8e0-4b3e-b915-83289a1efe43",
 			"key": "dne_cdpTokenRefreshTime",
 			"value": ""
 		},
 		{
-			"id": "7c51eba9-4b1c-4de1-b1b2-9e1c6f2f8e8b",
+			"id": "7f2b0faf-c1ff-4c61-adec-b4df722add59",
 			"key": "dne_cdpAssertion",
 			"value": ""
 		}
