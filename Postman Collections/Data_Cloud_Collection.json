@@ -996,85 +996,85 @@
 	],
 	"variable": [
 		{
-			"id": "ec2f6326-2047-4d72-91c7-66d3cd5aff0d",
+			"id": "0976bbd5-362a-41e0-bb94-810d1e135b55",
 			"key": "loginUrl",
 			"value": "login.salesforce.com",
 			"type": "string"
 		},
 		{
-			"id": "425f671f-521c-46ce-8a40-1f45d1ce448a",
+			"id": "ad507e1a-524d-48aa-882d-a74131853481",
 			"key": "version",
 			"value": "52.0",
 			"type": "string"
 		},
 		{
-			"id": "bbb27058-4a4c-4bf0-81bb-47e35b388283",
+			"id": "813e4858-b9f5-40ac-8a25-a32c0a564344",
 			"key": "clientId",
 			"value": "",
 			"type": "string"
 		},
 		{
-			"id": "84168c72-d7ee-40f9-9a68-3e0d6601ae35",
+			"id": "e15d625a-5b3b-4121-8e23-28b31287e2da",
 			"key": "clientSecret",
 			"value": "",
 			"type": "string"
 		},
 		{
-			"id": "5963b88f-88ce-4f1d-ab20-475a9b2716d7",
+			"id": "c4b09350-83b0-44c8-bebc-7d4d0e7651e7",
 			"key": "privateKey",
 			"value": "",
 			"type": "string"
 		},
 		{
-			"id": "cdcc26c6-9daa-448b-9887-5558f02932bf",
+			"id": "7165cab0-8622-4295-b417-4d529eedb81d",
 			"key": "userName",
 			"value": "",
 			"type": "string"
 		},
 		{
-			"id": "153c21a8-8265-4019-b57f-adb5c88053e4",
+			"id": "06a918a5-38af-4d66-8b77-dc03a4613522",
 			"key": "securityToken",
 			"value": "",
 			"type": "string"
 		},
 		{
-			"id": "b3272d27-0742-4f30-ab3c-032b1a281fd0",
+			"id": "641086c4-afc0-45f8-8156-694d0d40cdd6",
 			"key": "password",
 			"value": "",
 			"type": "string"
 		},
 		{
-			"id": "91cb8525-8137-4e68-a433-2e355b96cacc",
+			"id": "969ba17c-b277-458d-8f45-46aa5253583e",
 			"key": "dne_cdpOffcoreUrl",
 			"value": "",
 			"type": "string"
 		},
 		{
-			"id": "a0acf575-f1a4-43ed-b683-f33fc93bb592",
+			"id": "5bb49803-adf2-4efd-9209-d87c0290b24e",
 			"key": "dne_cdpOffcoreToken",
 			"value": "",
 			"type": "string"
 		},
 		{
-			"id": "4e357b81-ce29-4bac-8d1c-3e796b7945d9",
+			"id": "050fb3f4-6652-47fa-81bb-5003565dd044",
 			"key": "dne_cdpInstanceUrl",
 			"value": "",
 			"type": "string"
 		},
 		{
-			"id": "df97ee02-4f50-439a-8077-7d327e6b64dc",
+			"id": "04f26117-aa46-478f-9aaf-165908173376",
 			"key": "dne_cdpAuthToken",
 			"value": "",
 			"type": "string"
 		},
 		{
-			"id": "a0306e1f-3a32-43d9-8bf2-8dfe67f95db9",
+			"id": "9bb398fd-535e-4cf9-aeff-9ce231fc1c52",
 			"key": "dne_cdpTokenRefreshTime",
 			"value": "",
 			"type": "string"
 		},
 		{
-			"id": "ac35b5f4-9674-4029-9e8e-04e7ac707172",
+			"id": "86952204-6f97-4ae5-95c3-dcfcd62b6304",
 			"key": "dne_cdpAssertion",
 			"value": "",
 			"type": "string"
